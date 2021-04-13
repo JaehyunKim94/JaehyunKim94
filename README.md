@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![JaehyunKim94's github stats](https://github-readme-stats.vercel.app/api?username=JaehyunKim94)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaehyunKim94&repo=Algorithm_Problem)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaehyunKim94&repo=Project_mindgitter)](https://github.com/anuraghazra/github-readme-stats)
