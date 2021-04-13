@@ -8,5 +8,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaehyunKim94&repo=Algorithm_Problem)](https://github.com/JaehyunKim94/Algorithm_Problem)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaehyunKim94&repo=Project_wouldyouci)](https://github.com/JaehyunKim94/Project_wouldyouci)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaehyunKim94&repo=Project_mindgitter)](https://github.com/JaehyunKim94/Project_mindgitter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaehyunKim94&repo=java)](https://github.com/JaehyunKim94/java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaehyunKim94&repo=AppleCloneProjects)](https://github.com/JaehyunKim94/AppleCloneProjects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaehyunKim94&repo=modernJS)](https://github.com/JaehyunKim94/modernJS)
